@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <!-- Mountain background -->
+  <path d="M0 60 L25 35 L45 45 L70 25 L95 40 L120 20 L145 35 L170 30 L200 45 L200 80 L0 80 Z" 
+        fill="#2d5016" opacity="0.3"/>
+  
+  <!-- Secondary mountain layer -->
+  <path d="M0 65 L30 50 L55 40 L85 55 L115 35 L145 50 L175 45 L200 55 L200 80 L0 80 Z" 
+        fill="#365e1f" opacity="0.4"/>
+  
+  <!-- Backpack main body -->
+  <g transform="translate(85, 15)">
+    <!-- Main backpack shape -->
+    <path d="M5 10 Q5 5 10 5 L20 5 Q25 5 25 10 L25 45 Q25 50 20 50 L10 50 Q5 50 5 45 Z" 
+          fill="#8b4513" stroke="#654321" stroke-width="1"/>
+    
+    <!-- Backpack top flap -->
+    <path d="M7 5 Q7 2 10 2 L20 2 Q23 2 23 5 L23 15 Q23 18 20 18 L10 18 Q7 18 7 15 Z" 
+          fill="#a0522d" stroke="#654321" stroke-width="1"/>
+    
+    <!-- Buckle -->
+    <rect x="13" y="8" width="4" height="3" fill="#ffd700" stroke="#b8860b" stroke-width="0.5"/>
+    
+    <!-- Side pockets -->
+    <ellipse cx="3" cy="25" rx="3" ry="8" fill="#8b4513" opacity="0.8"/>
+    <ellipse cx="27" cy="25" rx="3" ry="8" fill="#8b4513" opacity="0.8"/>
+    
+    <!-- Straps -->
+    <path d="M8 50 Q8 55 12 60" stroke="#654321" stroke-width="2" fill="none"/>
+    <path d="M22 50 Q22 55 18 60" stroke="#654321" stroke-width="2" fill="none"/>
+    
+    <!-- Backpack details -->
+    <line x1="10" y1="25" x2="20" y2="25" stroke="#654321" stroke-width="0.5"/>
+    <line x1="10" y1="35" x2="20" y2="35" stroke="#654321" stroke-width="0.5"/>
+    
+    <!-- Zipper pull -->
+    <circle cx="22" cy="20" r="1.5" fill="#c0c0c0"/>
+  </g>
+  
+  <!-- Pine trees -->
+  <g>
+    <!-- Tree 1 -->
+    <polygon points="35,55 40,40 45,55" fill="#228b22"/>
+    <polygon points="37,50 40,35 43,50" fill="#32cd32"/>
+    <rect x="39" y="55" width="2" height="8" fill="#8b4513"/>
+    
+    <!-- Tree 2 -->
+    <polygon points="145,58 150,45 155,58" fill="#228b22"/>
+    <polygon points="147,53 150,40 153,53" fill="#32cd32"/>
+    <rect x="149" y="58" width="2" height="5" fill="#8b4513"/>
+    
+    <!-- Tree 3 (smaller) -->
+    <polygon points="165,60 167,50 169,60" fill="#228b22"/>
+    <rect x="166.5" y="60" width="1" height="3" fill="#8b4513"/>
+  </g>
+  
+  <!-- Stylized text "TBM" -->
+  <g transform="translate(10, 15)">
+    <text x="0" y="20" font-family="Arial Black, sans-serif" font-size="18" font-weight="bold" fill="#1a4d14">T</text>
+    <text x="12" y="20" font-family="Arial Black, sans-serif" font-size="18" font-weight="bold" fill="#1a4d14">B</text>
+    <text x="24" y="20" font-family="Arial Black, sans-serif" font-size="18" font-weight="bold" fill="#1a4d14">M</text>
+  </g>
+  
+  <!-- Small camping elements -->
+  <!-- Campfire -->
+  <g transform="translate(60, 50)">
+    <polygon points="0,15 2,10 4,15" fill="#8b4513"/>
+    <polygon points="1,10 3,5 5,10" fill="#d2691e"/>
+    <circle cx="2.5" cy="8" r="1" fill="#ff6347" opacity="0.7"/>
+  </g>
+  
+  <!-- Path/trail -->
+  <path d="M20 70 Q60 65 100 70 Q140 75 180 70" 
+        stroke="#8fbc8f" stroke-width="2" fill="none" opacity="0.6"/>
+</svg> 

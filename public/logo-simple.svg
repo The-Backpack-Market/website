@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Mountain background -->
+  <path d="M0 45 L16 25 L32 35 L48 20 L64 30 L64 64 L0 64 Z" 
+        fill="#2d5016" opacity="0.4"/>
+  
+  <!-- Backpack main body -->
+  <g transform="translate(24, 8)">
+    <!-- Main backpack shape -->
+    <path d="M2 6 Q2 3 5 3 L11 3 Q14 3 14 6 L14 26 Q14 29 11 29 L5 29 Q2 29 2 26 Z" 
+          fill="#8b4513" stroke="#654321" stroke-width="0.8"/>
+    
+    <!-- Backpack top flap -->
+    <path d="M3 3 Q3 1 5 1 L11 1 Q13 1 13 3 L13 9 Q13 11 11 11 L5 11 Q3 11 3 9 Z" 
+          fill="#a0522d"/>
+    
+    <!-- Buckle -->
+    <rect x="6.5" y="5" width="3" height="2" fill="#ffd700"/>
+    
+    <!-- Side pockets -->
+    <ellipse cx="1" cy="15" rx="2" ry="5" fill="#8b4513" opacity="0.7"/>
+    <ellipse cx="15" cy="15" rx="2" ry="5" fill="#8b4513" opacity="0.7"/>
+    
+    <!-- Straps -->
+    <path d="M4 29 Q4 32 6 35" stroke="#654321" stroke-width="1.5" fill="none"/>
+    <path d="M12 29 Q12 32 10 35" stroke="#654321" stroke-width="1.5" fill="none"/>
+  </g>
+  
+  <!-- Pine trees -->
+  <polygon points="8,50 12,38 16,50" fill="#228b22"/>
+  <polygon points="48,52 52,42 56,52" fill="#228b22"/>
+  <rect x="11" y="50" width="2" height="6" fill="#8b4513"/>
+  <rect x="51" y="52" width="2" height="4" fill="#8b4513"/>
+</svg> 

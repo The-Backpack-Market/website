@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <!-- Mountain background -->
+  <path d="M0 85 L40 50 L80 65 L120 35 L160 55 L200 25 L240 45 L280 40 L320 55 L360 45 L400 60 L400 120 L0 120 Z" 
+        fill="#2d5016" opacity="0.3"/>
+  
+  <!-- Secondary mountain layer -->
+  <path d="M0 95 L50 75 L90 60 L130 80 L170 50 L210 70 L250 65 L290 75 L330 60 L370 70 L400 80 L400 120 L0 120 Z" 
+        fill="#365e1f" opacity="0.4"/>
+  
+  <!-- Backpack main body -->
+  <g transform="translate(30, 20)">
+    <!-- Main backpack shape -->
+    <path d="M8 15 Q8 8 15 8 L35 8 Q42 8 42 15 L42 65 Q42 72 35 72 L15 72 Q8 72 8 65 Z" 
+          fill="#8b4513" stroke="#654321" stroke-width="1.5"/>
+    
+    <!-- Backpack top flap -->
+    <path d="M10 8 Q10 3 15 3 L35 3 Q40 3 40 8 L40 22 Q40 27 35 27 L15 27 Q10 27 10 22 Z" 
+          fill="#a0522d" stroke="#654321" stroke-width="1"/>
+    
+    <!-- Buckle -->
+    <rect x="21" y="12" width="8" height="5" fill="#ffd700" stroke="#b8860b" stroke-width="1"/>
+    <rect x="23" y="14" width="4" height="1" fill="#b8860b"/>
+    
+    <!-- Side pockets -->
+    <ellipse cx="5" cy="40" rx="5" ry="12" fill="#8b4513" opacity="0.8"/>
+    <ellipse cx="45" cy="40" rx="5" ry="12" fill="#8b4513" opacity="0.8"/>
+    
+    <!-- Straps -->
+    <path d="M12 72 Q12 80 18 88" stroke="#654321" stroke-width="3" fill="none"/>
+    <path d="M38 72 Q38 80 32 88" stroke="#654321" stroke-width="3" fill="none"/>
+    
+    <!-- Backpack details -->
+    <line x1="15" y1="40" x2="35" y2="40" stroke="#654321" stroke-width="1"/>
+    <line x1="15" y1="55" x2="35" y2="55" stroke="#654321" stroke-width="1"/>
+    
+    <!-- Zipper -->
+    <path d="M40 30 L40 60" stroke="#c0c0c0" stroke-width="1.5"/>
+    <circle cx="40" cy="32" r="2" fill="#c0c0c0"/>
+  </g>
+  
+  <!-- Pine trees -->
+  <g>
+    <!-- Tree 1 -->
+    <polygon points="5,85 15,60 25,85" fill="#228b22"/>
+    <polygon points="8,75 15,55 22,75" fill="#32cd32"/>
+    <rect x="14" y="85" width="2" height="12" fill="#8b4513"/>
+    
+    <!-- Tree 2 -->
+    <polygon points="350,90 360,70 370,90" fill="#228b22"/>
+    <polygon points="353,80 360,65 367,80" fill="#32cd32"/>
+    <rect x="359" y="90" width="2" height="8" fill="#8b4513"/>
+    
+    <!-- Tree 3 (background) -->
+    <polygon points="320,95 325,80 330,95" fill="#228b22" opacity="0.7"/>
+    <rect x="324" y="95" width="2" height="5" fill="#8b4513"/>
+  </g>
+  
+  <!-- Main text "THE BACKPACK MARKET" -->
+  <g transform="translate(100, 30)">
+    <text x="0" y="25" font-family="Arial Black, sans-serif" font-size="24" font-weight="bold" fill="#1a4d14">THE</text>
+    <text x="0" y="50" font-family="Arial Black, sans-serif" font-size="24" font-weight="bold" fill="#8b4513">BACKPACK</text>
+    <text x="0" y="75" font-family="Arial Black, sans-serif" font-size="24" font-weight="bold" fill="#d2691e">MARKET</text>
+  </g>
+  
+  <!-- Small camping elements -->
+  <!-- Campfire -->
+  <g transform="translate(280, 75)">
+    <polygon points="0,20 3,12 6,20" fill="#8b4513"/>
+    <polygon points="2,12 4,6 6,12" fill="#d2691e"/>
+    <circle cx="3" cy="10" r="1.5" fill="#ff6347" opacity="0.8"/>
+    <circle cx="4" cy="8" r="1" fill="#ffa500" opacity="0.6"/>
+  </g>
+  
+  <!-- Trail markers -->
+  <circle cx="250" cy="100" r="2" fill="#8fbc8f"/>
+  <circle cx="260" cy="98" r="2" fill="#8fbc8f"/>
+  <circle cx="270" cy="100" r="2" fill="#8fbc8f"/>
+  
+  <!-- Small sun -->
+  <circle cx="370" cy="25" r="8" fill="#ffd700" opacity="0.7"/>
+  <g transform="translate(370, 25)">
+    <line x1="-12" y1="0" x2="-10" y2="0" stroke="#ffd700" stroke-width="1"/>
+    <line x1="10" y1="0" x2="12" y2="0" stroke="#ffd700" stroke-width="1"/>
+    <line x1="0" y1="-12" x2="0" y2="-10" stroke="#ffd700" stroke-width="1"/>
+    <line x1="0" y1="10" x2="0" y2="12" stroke="#ffd700" stroke-width="1"/>
+    <line x1="-8" y1="-8" x2="-7" y2="-7" stroke="#ffd700" stroke-width="1"/>
+    <line x1="7" y1="7" x2="8" y2="8" stroke="#ffd700" stroke-width="1"/>
+    <line x1="8" y1="-8" x2="7" y2="-7" stroke="#ffd700" stroke-width="1"/>
+    <line x1="-7" y1="7" x2="-8" y2="8" stroke="#ffd700" stroke-width="1"/>
+  </g>
+</svg> 

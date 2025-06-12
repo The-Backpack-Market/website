@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 140" width="180" height="140">
+  <!-- Doodle canopy -->
+  <path d="M18,42 Q25,38 35,35 Q45,32 55,30 Q65,28 75,26 Q85,24 95,26 Q105,28 115,30 Q125,32 135,35 Q145,38 155,42 Q160,44 158,48 Q156,52 150,55 Q140,58 130,62 Q120,66 110,68 Q100,70 90,68 Q80,66 70,62 Q60,58 50,55 Q40,52 35,48 Q30,44 28,42 Q26,40 18,42" 
+        fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
+  
+  <!-- Canopy stripes -->
+  <path d="M25,40 Q35,38 45,40 Q55,42 65,40 Q75,38 85,40 Q95,42 105,40 Q115,38 125,40 Q135,42 145,40 Q155,38 162,40" 
+        stroke="#d97706" stroke-width="1.5" fill="none" opacity="0.7"/>
+  
+  <!-- Wiggly support poles -->
+  <path d="M30,48 Q28,60 32,70 Q30,80 28,90 Q32,100 30,110 Q28,120 30,130" 
+        stroke="#92400e" stroke-width="4" fill="none"/>
+  <path d="M150,48 Q152,60 148,70 Q150,80 152,90 Q148,100 150,110 Q152,120 150,130" 
+        stroke="#92400e" stroke-width="4" fill="none"/>
+  
+  <!-- Doodle table -->
+  <path d="M42,102 Q50,100 60,101 Q70,102 80,101 Q90,100 100,101 Q110,102 120,101 Q130,100 138,102 Q140,103 138,105 Q130,107 120,106 Q110,105 100,106 Q90,107 80,106 Q70,105 60,106 Q50,107 42,105 Q40,104 42,102" 
+        fill="#a3a3a3" stroke="#6b7280" stroke-width="1.5"/>
+  
+  <!-- Wiggly table legs -->
+  <path d="M50,106 Q48,115 52,120 Q50,125 52,130" stroke="#6b7280" stroke-width="3" fill="none"/>
+  <path d="M130,106 Q132,115 128,120 Q130,125 128,130" stroke="#6b7280" stroke-width="3" fill="none"/>
+  
+  <!-- Doodle products on table -->
+  <circle cx="60" cy="95" r="6" fill="#dc2626" stroke="#b91c1c" stroke-width="1.5"/>
+  <circle cx="80" cy="93" r="5" fill="#16a34a" stroke="#15803d" stroke-width="1.5"/>
+  <circle cx="100" cy="96" r="6" fill="#2563eb" stroke="#1d4ed8" stroke-width="1.5"/>
+  <circle cx="120" cy="94" r="5" fill="#ca8a04" stroke="#a16207" stroke-width="1.5"/>
+  
+  <!-- Product details -->
+  <circle cx="60" cy="93" r="2" fill="#fca5a5" opacity="0.7"/>
+  <circle cx="80" cy="91" r="2" fill="#86efac" opacity="0.7"/>
+  <circle cx="100" cy="94" r="2" fill="#93c5fd" opacity="0.7"/>
+  <circle cx="120" cy="92" r="2" fill="#fde047" opacity="0.7"/>
+  
+  <!-- Wiggly ground line -->
+  <path d="M10,130 Q20,128 30,130 Q40,132 50,130 Q60,128 70,130 Q80,132 90,130 Q100,128 110,130 Q120,132 130,130 Q140,128 150,130 Q160,132 170,130" 
+        stroke="#92400e" stroke-width="3" fill="none"/>
+  
+  <!-- Small decorative bunting -->
+  <path d="M35,45 Q40,42 45,45 Q50,42 55,45" stroke="#dc2626" stroke-width="2" fill="none"/>
+  <path d="M125,45 Q130,42 135,45 Q140,42 145,45" stroke="#2563eb" stroke-width="2" fill="none"/>
+</svg> 

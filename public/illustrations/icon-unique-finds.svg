@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="35" fill="#fffbeb" stroke="#fbbf24" stroke-width="2" opacity="0.8"/>
+  
+  <!-- Handmade jar/pottery -->
+  <path d="M25 30 Q20 28 20 35 L20 55 Q20 62 27 62 L33 62 Q40 62 40 55 L40 35 Q40 28 35 30 Z" fill="#fb7185" stroke="#92400e" stroke-width="2"/>
+  <ellipse cx="30" cy="30" rx="10" ry="3" fill="#ec4899" stroke="#92400e" stroke-width="2"/>
+  <path d="M22 40 Q30 38 38 40" stroke="#be123c" stroke-width="1.5" fill="none"/>
+  <path d="M22 48 Q30 46 38 48" stroke="#be123c" stroke-width="1.5" fill="none"/>
+  
+  <!-- Handmade scarf/textile -->
+  <path d="M45 25 Q50 20 55 25 L60 30 Q62 35 57 37 L52 35 Q47 33 45 28 Z" fill="#8b5cf6" stroke="#92400e" stroke-width="2"/>
+  <path d="M47 27 L49 29 L51 27 L53 29 L55 27" stroke="#fbbf24" stroke-width="1.5"/>
+  <path d="M46 30 L48 32 L50 30 L52 32 L54 30" stroke="#fbbf24" stroke-width="1.5"/>
+  
+  <!-- Handmade jewelry -->
+  <circle cx="55" cy="50" r="8" fill="none" stroke="#f59e0b" stroke-width="2"/>
+  <circle cx="52" cy="47" r="2" fill="#ef4444"/>
+  <circle cx="58" cy="47" r="2" fill="#06b6d4"/>
+  <circle cx="55" cy="53" r="2" fill="#22c55e"/>
+  <circle cx="52" cy="53" r="1.5" fill="#8b5cf6"/>
+  <circle cx="58" cy="53" r="1.5" fill="#ec4899"/>
+  
+  <!-- Handmade candle -->
+  <rect x="28" y="45" width="8" height="15" fill="#fde047" stroke="#92400e" stroke-width="2" rx="1"/>
+  <ellipse cx="32" cy="45" rx="4" ry="2" fill="#fbbf24"/>
+  <path d="M32 43 L32 38" stroke="#f59e0b" stroke-width="2"/>
+  <circle cx="32" cy="37" r="2" fill="#fb923c" opacity="0.8"/>
+  
+  <!-- Sparkle effects -->
+  <path d="M15 20 L17 26 L23 24 L17 28 L19 34 L15 30 L11 34 L13 28 L7 24 L13 26 Z" fill="#fbbf24" opacity="0.8"/>
+  <path d="M62 15 L64 21 L70 19 L64 23 L66 29 L62 25 L58 29 L60 23 L54 19 L60 21 Z" fill="#fb7185" opacity="0.8"/>
+  <path d="M65 65 L67 71 L73 69 L67 73 L69 79 L65 75 L61 79 L63 73 L57 69 L63 71 Z" fill="#8b5cf6" opacity="0.8"/>
+  <path d="M12 65 L14 71 L20 69 L14 73 L16 79 L12 75 L8 79 L10 73 L4 69 L10 71 Z" fill="#22c55e" opacity="0.8"/>
+  
+  <!-- Small connecting swirls -->
+  <path d="M40 20 Q45 15 50 20" stroke="#ec4899" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M20 60 Q25 55 30 60" stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M55 65 Q60 60 65 65" stroke="#fbbf24" stroke-width="2" fill="none" opacity="0.5"/>
+</svg> 

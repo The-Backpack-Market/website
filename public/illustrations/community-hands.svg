@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="150" cy="100" r="90" fill="#ecfdf5" stroke="#22c55e" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Hand 1 - holding honey jar -->
+  <path d="M50 120 Q55 115 60 120 Q70 118 75 125 Q78 130 75 135 Q70 140 60 138 Q55 135 50 130 Z" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+  <circle cx="65" cy="110" r="8" fill="#fbbf24" stroke="#92400e" stroke-width="1.5"/>
+  <rect x="61" y="102" width="8" height="3" fill="#92400e"/>
+  <text x="65" y="108" text-anchor="middle" fill="#92400e" font-size="4">🍯</text>
+  
+  <!-- Hand 2 - holding plants -->
+  <path d="M120 80 Q125 75 130 80 Q140 78 145 85 Q148 90 145 95 Q140 100 130 98 Q125 95 120 90 Z" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+  <path d="M135 70 Q140 65 145 70 Q150 75 145 80 Q140 85 135 80 Q130 75 135 70" fill="#22c55e"/>
+  <path d="M128 72 Q133 67 138 72 Q143 77 138 82 Q133 87 128 82 Q123 77 128 72" fill="#16a34a"/>
+  
+  <!-- Hand 3 - holding bread -->
+  <path d="M180 120 Q185 115 190 120 Q200 118 205 125 Q208 130 205 135 Q200 140 190 138 Q185 135 180 130 Z" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+  <ellipse cx="195" cy="110" rx="12" ry="6" fill="#f59e0b" stroke="#92400e" stroke-width="1.5"/>
+  <circle cx="190" cy="108" r="1" fill="#92400e"/>
+  <circle cx="198" cy="109" r="1" fill="#92400e"/>
+  <circle cx="194" cy="112" r="1" fill="#92400e"/>
+  
+  <!-- Hand 4 - holding crafts -->
+  <path d="M240 100 Q245 95 250 100 Q260 98 265 105 Q268 110 265 115 Q260 120 250 118 Q245 115 240 110 Z" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+  <rect x="248" y="88" width="8" height="8" fill="#8b5cf6" stroke="#92400e" stroke-width="1" rx="1"/>
+  <path d="M250 90 L254 94 L252 96 L256 94" stroke="#fef3c7" stroke-width="1"/>
+  
+  <!-- Hand 5 - holding flowers -->
+  <path d="M80 160 Q85 155 90 160 Q100 158 105 165 Q108 170 105 175 Q100 180 90 178 Q85 175 80 170 Z" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+  <circle cx="95" cy="148" r="3" fill="#ec4899"/>
+  <circle cx="90" cy="145" r="3" fill="#f97316"/>
+  <circle cx="100" cy="145" r="3" fill="#eab308"/>
+  <path d="M95 150 L95 158" stroke="#22c55e" stroke-width="2"/>
+  
+  <!-- Hand 6 - holding soap -->
+  <path d="M200 160 Q205 155 210 160 Q220 158 225 165 Q228 170 225 175 Q220 180 210 178 Q205 175 200 170 Z" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+  <rect x="208" y="148" width="10" height="6" fill="#06b6d4" stroke="#92400e" stroke-width="1" rx="2"/>
+  <path d="M210 150 Q215 148 220 150" stroke="#fef3c7" stroke-width="1" fill="none"/>
+  
+  <!-- Connecting swirls -->
+  <path d="M80 130 Q100 110 120 100" stroke="#22c55e" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="3,3"/>
+  <path d="M160 95 Q170 100 180 110" stroke="#22c55e" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="3,3"/>
+  <path d="M110 170 Q130 160 150 155" stroke="#22c55e" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="3,3"/>
+  <path d="M170 155 Q185 150 200 155" stroke="#22c55e" stroke-width="2" fill="none" opacity="0.4" stroke-dasharray="3,3"/>
+  
+  <!-- Central heart symbol -->
+  <path d="M145 100 Q150 95 155 100 Q160 95 165 100 Q165 105 155 115 Q150 120 145 115 Q135 105 145 100" fill="#ec4899" opacity="0.6"/>
+  
+  <!-- Stars/sparkles -->
+  <path d="M60 60 L62 66 L68 64 L62 68 L64 74 L60 70 L56 74 L58 68 L52 64 L58 66 Z" fill="#fbbf24" opacity="0.7"/>
+  <path d="M230 50 L232 56 L238 54 L232 58 L234 64 L230 60 L226 64 L228 58 L222 54 L228 56 Z" fill="#fbbf24" opacity="0.7"/>
+  <path d="M270 140 L272 146 L278 144 L272 148 L274 154 L270 150 L266 154 L268 148 L262 144 L268 146 Z" fill="#fbbf24" opacity="0.7"/>
+</svg> 

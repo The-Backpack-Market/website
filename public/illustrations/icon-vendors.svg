@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="35" fill="#ecfdf5" stroke="#22c55e" stroke-width="2" opacity="0.8"/>
+  
+  <!-- Market stall/tent -->
+  <path d="M15 25 L40 15 L65 25 L65 35 L15 35 Z" fill="#fbbf24" stroke="#92400e" stroke-width="2"/>
+  <path d="M15 35 L15 60 L65 60 L65 35" fill="#fef3c7" stroke="#92400e" stroke-width="2"/>
+  
+  <!-- Support poles -->
+  <path d="M20 35 L20 60" stroke="#92400e" stroke-width="3"/>
+  <path d="M40 35 L40 60" stroke="#92400e" stroke-width="3"/>
+  <path d="M60 35 L60 60" stroke="#92400e" stroke-width="3"/>
+  
+  <!-- Vendor table -->
+  <rect x="25" y="50" width="30" height="8" fill="#f59e0b" stroke="#92400e" stroke-width="2"/>
+  
+  <!-- Products on table -->
+  <circle cx="30" cy="46" r="3" fill="#ef4444"/>
+  <circle cx="37" cy="44" r="2.5" fill="#06b6d4"/>
+  <circle cx="45" cy="46" r="3" fill="#8b5cf6"/>
+  <circle cx="52" cy="45" r="2" fill="#22c55e"/>
+  
+  <!-- Price signs -->
+  <rect x="28" y="38" width="6" height="4" fill="white" stroke="#92400e" stroke-width="1"/>
+  <rect x="48" y="36" width="6" height="4" fill="white" stroke="#92400e" stroke-width="1"/>
+  
+  <!-- Vendor person -->
+  <circle cx="35" cy="28" r="4" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+  <path d="M35 32 L35 45" stroke="#92400e" stroke-width="2" stroke-linecap="round"/>
+  <path d="M30 38 L35 36 L40 38" stroke="#92400e" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Decorative bunting -->
+  <path d="M10 20 L20 22 L30 20 L40 22 L50 20 L60 22 L70 20" stroke="#ec4899" stroke-width="2"/>
+  <path d="M15 20 L18 25 L22 20" fill="#fb7185"/>
+  <path d="M35 20 L38 25 L42 20" fill="#fbbf24"/>
+  <path d="M55 20 L58 25 L62 20" fill="#22c55e"/>
+  
+  <!-- Small stars around -->
+  <path d="M10 45 L11 48 L14 47 L11 50 L12 53 L10 51 L8 53 L9 50 L6 47 L9 48 Z" fill="#fbbf24" opacity="0.6"/>
+  <path d="M68 45 L69 48 L72 47 L69 50 L70 53 L68 51 L66 53 L67 50 L64 47 L67 48 Z" fill="#fbbf24" opacity="0.6"/>
+</svg> 

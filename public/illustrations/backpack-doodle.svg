@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="250" viewBox="0 0 200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main backpack body -->
+  <path d="M60 80 Q50 75 50 90 L50 200 Q50 220 70 220 L130 220 Q150 220 150 200 L150 90 Q150 75 140 80 Z" fill="#22c55e" stroke="#15803d" stroke-width="3"/>
+  
+  <!-- Backpack flap -->
+  <path d="M55 80 Q55 65 75 60 L125 60 Q145 65 145 80 L145 110 Q145 125 125 125 L75 125 Q55 125 55 110 Z" fill="#16a34a" stroke="#15803d" stroke-width="3"/>
+  
+  <!-- Straps -->
+  <path d="M65 70 Q45 50 40 30 Q38 20 45 20 Q52 20 55 30 Q60 50 70 70" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M135 70 Q155 50 160 30 Q162 20 155 20 Q148 20 145 30 Q140 50 130 70" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Front pocket -->
+  <rect x="70" y="140" width="60" height="40" fill="#fbbf24" stroke="#15803d" stroke-width="2" rx="5"/>
+  <path d="M85 145 Q100 140 115 145" stroke="#15803d" stroke-width="2" fill="none"/>
+  
+  <!-- Zipper -->
+  <path d="M75 125 L125 125" stroke="#374151" stroke-width="2"/>
+  <rect x="98" y="122" width="4" height="6" fill="#374151" rx="1"/>
+  
+  <!-- Side pockets -->
+  <ellipse cx="40" cy="150" rx="8" ry="20" fill="#fde047" stroke="#15803d" stroke-width="2"/>
+  <ellipse cx="160" cy="150" rx="8" ry="20" fill="#fde047" stroke="#15803d" stroke-width="2"/>
+  
+  <!-- Items sticking out -->
+  <!-- Pencils -->
+  <rect x="42" y="130" width="2" height="25" fill="#f59e0b" rx="1"/>
+  <rect x="45" y="128" width="2" height="27" fill="#ef4444" rx="1"/>
+  <circle cx="43" cy="127" r="1" fill="#fbbf24"/>
+  <circle cx="46" cy="125" r="1" fill="#fb7185"/>
+  
+  <!-- Flower -->
+  <circle cx="162" cy="135" r="4" fill="#ec4899"/>
+  <circle cx="158" cy="138" r="3" fill="#f97316"/>
+  <circle cx="166" cy="138" r="3" fill="#eab308"/>
+  <circle cx="162" cy="142" r="3" fill="#8b5cf6"/>
+  <path d="M162 145 L162 155" stroke="#22c55e" stroke-width="2"/>
+  
+  <!-- Decorative doodles around backpack -->
+  <!-- Stars -->
+  <path d="M20 100 L22 106 L28 104 L22 108 L24 114 L20 110 L16 114 L18 108 L12 104 L18 106 Z" fill="#fbbf24" opacity="0.8"/>
+  <path d="M175 180 L177 186 L183 184 L177 188 L179 194 L175 190 L171 194 L173 188 L167 184 L173 186 Z" fill="#fb7185" opacity="0.8"/>
+  
+  <!-- Hearts -->
+  <path d="M25 180 Q30 175 35 180 Q40 175 45 180 Q45 185 35 195 Q30 200 25 195 Q15 185 25 180" fill="#ec4899" opacity="0.6"/>
+  
+  <!-- Swirls -->
+  <path d="M170 90 Q180 85 185 95 Q180 105 170 100 Q165 95 170 90" stroke="#16a34a" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M15 200 Q25 195 30 205 Q25 215 15 210 Q10 205 15 200" stroke="#16a34a" stroke-width="2" fill="none" opacity="0.7"/>
+  
+  <!-- Leaves -->
+  <path d="M180 120 Q185 115 190 120 Q195 125 190 130 Q185 135 180 130 Q175 125 180 120" fill="#22c55e" opacity="0.7"/>
+  <path d="M10 120 Q15 115 20 120 Q25 125 20 130 Q15 135 10 130 Q5 125 10 120" fill="#16a34a" opacity="0.7"/>
+  
+  <!-- Small dots pattern -->
+  <circle cx="30" cy="60" r="2" fill="#fbbf24" opacity="0.6"/>
+  <circle cx="170" cy="60" r="2" fill="#fbbf24" opacity="0.6"/>
+  <circle cx="25" cy="240" r="2" fill="#fbbf24" opacity="0.6"/>
+  <circle cx="175" cy="240" r="2" fill="#fbbf24" opacity="0.6"/>
+  
+  <!-- Text bubble -->
+  <ellipse cx="165" cy="40" rx="25" ry="15" fill="#fef3c7" stroke="#15803d" stroke-width="2"/>
+  <path d="M150 48 Q145 55 150 52" fill="#fef3c7" stroke="#15803d" stroke-width="2"/>
+  <text x="165" y="38" text-anchor="middle" fill="#15803d" font-size="8" font-weight="bold">Local</text>
+  <text x="165" y="46" text-anchor="middle" fill="#15803d" font-size="8" font-weight="bold">Goods!</text>
+  
+  <!-- Bottom decoration -->
+  <path d="M0 235 Q50 230 100 235 Q150 240 200 235" stroke="#22c55e" stroke-width="3" fill="none" opacity="0.4"/>
+</svg> 

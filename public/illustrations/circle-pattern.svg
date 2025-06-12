@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <!-- Doodle outer circle -->
+  <path d="M150,10 Q200,15 240,50 Q285,100 290,150 Q285,200 240,250 Q200,285 150,290 Q100,285 60,250 Q15,200 10,150 Q15,100 60,50 Q100,15 150,10" 
+        fill="none" stroke="#f59e0b" stroke-width="3" opacity="0.4"/>
+  
+  <!-- Wobbly medium circles -->
+  <path d="M150,50 Q180,55 200,80 Q225,110 230,150 Q225,190 200,220 Q180,245 150,250 Q120,245 100,220 Q75,190 70,150 Q75,110 100,80 Q120,55 150,50" 
+        fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.5"/>
+  
+  <path d="M150,80 Q170,82 185,100 Q198,125 200,150 Q198,175 185,200 Q170,218 150,220 Q130,218 115,200 Q102,175 100,150 Q102,125 115,100 Q130,82 150,80" 
+        fill="none" stroke="#d97706" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Squiggly inner circles -->
+  <path d="M150,110 Q160,112 168,125 Q175,140 172,150 Q175,160 168,175 Q160,188 150,190 Q140,188 132,175 Q125,160 128,150 Q125,140 132,125 Q140,112 150,110" 
+        fill="none" stroke="#f59e0b" stroke-width="1.8" opacity="0.7"/>
+  
+  <path d="M150,130 Q155,131 158,138 Q160,145 159,150 Q160,155 158,162 Q155,169 150,170 Q145,169 142,162 Q140,155 141,150 Q140,145 142,138 Q145,131 150,130" 
+        fill="none" stroke="#d97706" stroke-width="1.5" opacity="0.8"/>
+  
+  <!-- Scattered doodle dots -->
+  <circle cx="150" cy="45" r="4" fill="#f59e0b" opacity="0.6" stroke="#d97706" stroke-width="1"/>
+  <circle cx="255" cy="150" r="3" fill="#f59e0b" opacity="0.5" stroke="#d97706" stroke-width="1"/>
+  <circle cx="150" cy="255" r="4" fill="#f59e0b" opacity="0.6" stroke="#d97706" stroke-width="1"/>
+  <circle cx="45" cy="150" r="3" fill="#f59e0b" opacity="0.5" stroke="#d97706" stroke-width="1"/>
+  
+  <!-- Extra decorative squiggles -->
+  <path d="M220,80 Q225,85 220,90 Q215,85 220,80" stroke="#f59e0b" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M80,220 Q85,225 80,230 Q75,225 80,220" stroke="#f59e0b" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M80,80 Q75,85 80,90 Q85,85 80,80" stroke="#d97706" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M220,220 Q225,215 230,220 Q225,225 220,220" stroke="#d97706" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <!-- Center doodle -->
+  <circle cx="150" cy="150" r="8" fill="#f59e0b" opacity="0.3" stroke="#d97706" stroke-width="2"/>
+  <circle cx="150" cy="150" r="4" fill="#d97706" opacity="0.6"/>
+</svg> 

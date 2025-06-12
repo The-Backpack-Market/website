@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Repeating pattern elements -->
+  
+  <!-- Swirl 1 -->
+  <path d="M20 30 Q30 20 40 30 Q50 40 40 50 Q30 60 20 50 Q10 40 20 30" stroke="#22c55e" stroke-width="2" fill="none" opacity="0.3"/>
+  
+  <!-- Dots cluster 1 -->
+  <circle cx="80" cy="25" r="3" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="85" cy="30" r="2" fill="#fb7185" opacity="0.4"/>
+  <circle cx="90" cy="25" r="2.5" fill="#8b5cf6" opacity="0.4"/>
+  
+  <!-- Leaf 1 -->
+  <path d="M120 40 Q130 30 140 40 Q145 50 135 55 Q125 50 120 40" fill="#16a34a" opacity="0.3"/>
+  
+  <!-- Star 1 -->
+  <path d="M170 35 L172 41 L178 39 L172 43 L174 49 L170 45 L166 49 L168 43 L162 39 L168 41 Z" fill="#f59e0b" opacity="0.4"/>
+  
+  <!-- Heart 1 -->
+  <path d="M200 35 Q205 30 210 35 Q215 30 220 35 Q220 40 210 50 Q205 55 200 50 Q190 40 200 35" fill="#ec4899" opacity="0.3"/>
+  
+  <!-- Swirl 2 -->
+  <path d="M250 40 Q260 30 270 40 Q280 50 270 60 Q260 70 250 60 Q240 50 250 40" stroke="#16a34a" stroke-width="2" fill="none" opacity="0.3"/>
+  
+  <!-- Second row (offset) -->
+  
+  <!-- Flower 1 -->
+  <circle cx="50" cy="70" r="4" fill="#ec4899" opacity="0.4"/>
+  <circle cx="45" cy="75" r="3" fill="#f97316" opacity="0.4"/>
+  <circle cx="55" cy="75" r="3" fill="#eab308" opacity="0.4"/>
+  <circle cx="50" cy="80" r="3" fill="#8b5cf6" opacity="0.4"/>
+  
+  <!-- Zigzag line -->
+  <path d="M100 65 L110 75 L120 65 L130 75 L140 65" stroke="#22c55e" stroke-width="2" fill="none" opacity="0.3"/>
+  
+  <!-- Small stars cluster -->
+  <path d="M180 70 L181 73 L184 72 L181 75 L182 78 L180 76 L178 78 L179 75 L176 72 L179 73 Z" fill="#fbbf24" opacity="0.5"/>
+  <path d="M185 65 L186 68 L189 67 L186 70 L187 73 L185 71 L183 73 L184 70 L181 67 L184 68 Z" fill="#fb7185" opacity="0.5"/>
+  
+  <!-- Organic blob -->
+  <path d="M220 75 Q230 65 240 75 Q245 85 235 90 Q225 85 220 75" fill="#06b6d4" opacity="0.3"/>
+  
+  <!-- Spiral -->
+  <path d="M280 70 Q285 65 290 70 Q295 75 290 80 Q285 85 280 80 Q275 75 280 70" stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <!-- Connection lines (very subtle) -->
+  <path d="M0 50 Q75 45 150 50 Q225 55 300 50" stroke="#22c55e" stroke-width="1" fill="none" opacity="0.1"/>
+</svg> 

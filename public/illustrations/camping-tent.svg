@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 120" width="150" height="120">
+  <!-- Doodle tent body -->
+  <path d="M22,110 Q25,108 30,100 Q35,90 40,80 Q45,65 50,50 Q55,35 60,25 Q65,18 70,15 Q75,12 80,15 Q85,18 90,25 Q95,35 100,50 Q105,65 110,80 Q115,90 120,100 Q125,108 128,110 Q125,112 120,110 Q115,108 110,106 Q105,104 100,106 Q95,108 90,106 Q85,104 80,106 Q75,108 70,106 Q65,104 60,106 Q55,108 50,106 Q45,104 40,106 Q35,108 30,106 Q25,104 22,110" 
+        fill="#059669" stroke="#047857" stroke-width="2"/>
+  
+  <!-- Tent entrance with wiggly opening -->
+  <path d="M62,110 Q65,108 68,100 Q70,90 72,80 Q74,70 75,65 Q76,70 78,80 Q80,90 82,100 Q85,108 88,110 Q85,108 82,106 Q79,104 76,106 Q75,107 74,106 Q71,104 68,106 Q65,108 62,110" 
+        fill="#10b981" stroke="#047857" stroke-width="1.5"/>
+  
+  <!-- Wiggly ground line -->
+  <path d="M15,110 Q25,108 35,110 Q45,112 55,110 Q65,108 75,110 Q85,112 95,110 Q105,108 115,110 Q125,112 135,110" 
+        stroke="#92400e" stroke-width="3" fill="none"/>
+  
+  <!-- Tent pegs with doodle ropes -->
+  <path d="M20,110 Q15,112 10,115 Q8,117 10,118 Q12,117 15,115" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <path d="M130,110 Q135,112 140,115 Q142,117 140,118 Q138,117 135,115" stroke="#6b7280" stroke-width="2" fill="none"/>
+  
+  <!-- Tent details -->
+  <circle cx="75" cy="60" r="4" fill="#f59e0b" stroke="#d97706" stroke-width="1"/>
+  
+  <!-- Small tent patches -->
+  <circle cx="55" cy="80" r="2" fill="#dc2626" opacity="0.7"/>
+  <circle cx="95" cy="75" r="2" fill="#2563eb" opacity="0.7"/>
+  
+  <!-- Tent seams -->
+  <path d="M30,100 Q40,90 50,80 Q60,65 70,50" stroke="#047857" stroke-width="1" fill="none" opacity="0.7"/>
+  <path d="M120,100 Q110,90 100,80 Q90,65 80,50" stroke="#047857" stroke-width="1" fill="none" opacity="0.7"/>
+</svg> 
