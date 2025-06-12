@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Backpack Market - Local Popup Marketplace at Porter Park",
-  description: "Join The Backpack Market at Porter Park! Local vendors selling unique goods. Reserve your spot or boost your visibility on our platform.",
+  title: "The Backpack Market - Local Popup Marketplace",
+  description: "Join The Backpack Market at Various Locations! Local vendors selling unique goods. Reserve your spot or boost your visibility on our platform.",
   keywords: "local market, popup marketplace, Porter Park, vendors, local business, community market",
   icons: {
     icon: "/favicon.ico",
