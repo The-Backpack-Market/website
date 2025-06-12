@@ -167,7 +167,7 @@ export default function Home() {
                  />
                </div>
               <h3 className="text-xl font-semibold mb-2 text-green-900">Unique Finds</h3>
-              <p className="text-green-700">Discover one-of-a-kind products, handmade crafts, and local specialties you won't find elsewhere.</p>
+              <p className="text-green-700">Discover one-of-a-kind products, handmade crafts, and local specialties you won&apos;t find elsewhere.</p>
             </div>
           </div>
         </div>
@@ -232,7 +232,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold text-green-900 mb-6">Apply for a Vendor Spot</h3>
               <p className="text-green-700 mb-6">
                 Ready to join The Backpack Market? Fill out our vendor application form to get started. 
-                We'll review your application and get back to you within 2-3 business days.
+                We&apos;ll review your application and get back to you within 2-3 business days.
               </p>
               
               <div className="bg-green-50 p-6 rounded-lg mb-6 border-2 border-dashed border-green-200">
@@ -418,7 +418,7 @@ export default function Home() {
             <h2 className="text-3xl font-bold text-green-900 mb-4">Get in Touch</h2>
             <p className="text-lg text-green-800 max-w-3xl mx-auto">
               Have questions about vendor spots, our directory, or The Backpack Market? 
-              We'd love to hear from you!
+              We&apos;d love to hear from you!
             </p>
           </div>
 
@@ -479,7 +479,7 @@ export default function Home() {
               <h4 className="text-xl font-semibold mb-4 text-green-800">What Would You Like to See?</h4>
               <p className="text-green-700 mb-6 max-w-2xl mx-auto">
                 Help us plan future markets! Tell us what types of vendors, products, or experiences 
-                you'd love to see at The Backpack Market.
+                you&apos;d love to see at The Backpack Market.
               </p>
               <a 
                 href="https://docs.google.com/forms/d/1Ub7ZSSyMdGOopspaVXJvc0ROycuXY2BCjNb4G-kV6D8/viewform?edit_requested=true" 
